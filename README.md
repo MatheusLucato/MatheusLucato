@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Lucato</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-- 🔭 I’m working at [Nextage Software Developer](https://www.nextage.com.br/)
-
 - 📫 How to reach me **ytmatheuslucato@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
